@@ -12,10 +12,10 @@ body {
 
 a {
   text-decoration: none;
-  color: #F7D354;
+  color: #ff0000;
   transition: .5s;
 }
 
 a:hover {
-  color: #b8930c;
+  color: #920000;
 }
