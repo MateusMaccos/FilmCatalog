@@ -1,4 +1,4 @@
-![image](https://github.com/MateusMaccos/FilmCatalog/assets/75508372/7d0d79b8-7298-4725-a5af-b464c033e30a)
+![image](https://github.com/MateusMaccos/FilmCatalog/assets/75508372/52eedb71-d2df-4e12-b585-c26ed7d1e7ef)
 
 # Aplicativo de Filmes em React
 Este é um aplicativo em React que utiliza a API do The Movie Database (TMDb) para resgatar informações de diversos filmes, como avaliação, descrição, orçamento e bilheteria. Com este aplicativo, os usuários podem buscar por filmes, visualizar detalhes e obter informações relevantes sobre eles.
@@ -8,12 +8,12 @@ O aplicativo possui as seguintes funcionalidades:
 
 **Busca de Filmes**: Os usuários podem pesquisar filmes por título.
 
-![image](https://github.com/MateusMaccos/FilmCatalog/assets/75508372/a24dae4f-ce6f-4c37-a75c-d2283021d685)
+![image](https://github.com/MateusMaccos/FilmCatalog/assets/75508372/db0cf049-b391-4aac-9378-eb9fdcf7800f)
 
 **Lista de Filmes Populares**: Mostra uma lista dos filmes mais populares no momento.<br/>
 **Detalhes do Filme**: Exibe informações detalhadas sobre um filme específico, incluindo título, avaliação, descrição, orçamento e bilheteria.
 
-![image](https://github.com/MateusMaccos/FilmCatalog/assets/75508372/3644eeb4-ba8b-4260-9b78-0c2705ad929a)
+![image](https://github.com/MateusMaccos/FilmCatalog/assets/75508372/c6278aa8-ef5d-4b35-b04a-ba3e5afd16f7)
 
 **Interface Responsiva**: O aplicativo é responsivo e se adapta a diferentes tamanhos de tela, permitindo uma experiência consistente em dispositivos móveis e desktops.
  
