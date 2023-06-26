@@ -9,7 +9,10 @@ const MovieCard = ({ movie, showLink = true }) => {
         <div className='movie-card'>
             <div className='movie-image'>
                 <img src={imageUrl + movie.poster_path} alt={movie.title} />
-                <h3>Clique para ver mais</h3>
+                {showLink && <Link to={`/movie/${movie.id}`}>
+                    <h3>Clique para ver mais</h3>
+                </Link>}
+
             </div>
             <h2>{movie.title}</h2>
             <p>
